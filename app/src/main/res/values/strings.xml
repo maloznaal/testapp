@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Testapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Settings</string>
+    <string name="action_new">Settings</string>
+    <string name="logo_desc">App logo</string>
+    <string name="country_name">Kazakhstan</string>
+    <string name="btn_go">go</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="et_hint">search keyword</string>
+</resources>
+
